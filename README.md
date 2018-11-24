@@ -1,1 +1,1 @@
-# This is an applicaiton designed to transfer Celsius degrees to Fahrenheit degrees and suggest the clothe layer at the same time at the same time #
+# This is an applicaiton designed to transfer Celsius degrees to Fahrenheit degrees and suggest the clothe layer at the same time#
